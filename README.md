@@ -1,2 +1,2 @@
 # tablaeu-scraping
-simple tableau scraper 
+Simple tableau scraper jupyter notebook
